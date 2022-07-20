@@ -5,7 +5,7 @@ Depending from where you got the game, go to the correct directory.
 
    Steam Version: `%LOCALAPPDATA%\HaloInfinite\Settings`
 
-1. Ensure V-Sync and your Maximum FPS is set to unlocked ingame.
+1. Ensure V-Sync is disabled and your Maximum FPS is set to unlocked ingame.
 
 2. Open `SpecControlSettings.json`.
 
